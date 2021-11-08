@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Coupon {
 
 	public static int random() {
-		return (int)(10.0 * Math.random() );
+		return (int)(1000.0 * Math.random() );
 	}
 	
 	public static void check() {
